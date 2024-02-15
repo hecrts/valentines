@@ -83,7 +83,7 @@ public void mousePressed() {
     background(255);
     fill(#F5DFDD);
     rect(50, 50, 900, 900);
-    textSize(20);
+    textSize(25);
     String s = "i love you so much arvi, happy valentines to my favorite person on this earth, i'm so grateful for you, and i can't wait to see you again to give you your gifts. you're the sweetest person i've ever met, so kind, loving, caring, etc. just thinking about you makes me blush. i know things have been tough doing a ldr, but i'm sure that it will pay off soon, and we will both be happy! i remember the way you looked at me in the movie theater, the dim light from the movie lit your face up and it made me so happy. that is my favorite day and favorite memory. ever. you make me ever so happy and i'm so glad to have you. i love yapping to you because i know you don't care (unless you do, fuck you) and it's fun to yap. i love yapping. i love doing the little things we do over call too. doing work together in silence, watching movies, playing games, all of it. anyway i love you a lot and i'm so happy to have you, love you lots baby. happy valentines day my love <3.";
     fill(255);
     text(s, 120, 120, 790, 900);
